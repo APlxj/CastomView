@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BooheeRuler/BooheeRuler.iml" filepath="$PROJECT_DIR$/BooheeRuler/BooheeRuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BooheeRulerView/BooheeRulerView.iml" filepath="$PROJECT_DIR$/BooheeRulerView/BooheeRulerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CastomView.iml" filepath="$PROJECT_DIR$/CastomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HenCoderPractice/HenCoderPractice.iml" filepath="$PROJECT_DIR$/HenCoderPractice/HenCoderPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MISportsConnectWidget/MISportsConnectWidget.iml" filepath="$PROJECT_DIR$/MISportsConnectWidget/MISportsConnectWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimonLikeView/SimonLikeView.iml" filepath="$PROJECT_DIR$/SimonLikeView/SimonLikeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/misportsconnectview/misportsconnectview.iml" filepath="$PROJECT_DIR$/misportsconnectview/misportsconnectview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
