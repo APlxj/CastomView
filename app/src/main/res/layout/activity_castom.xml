@@ -4,9 +4,19 @@
     android:id="@+id/activity_castom"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
     tools:context="com.castomview.CastomActivity">
 
-    <com.castomview.RainbowBar
+    <!--<com.castomview.RainbowBar
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent" />-->
+
+    <!--<com.castomview.TestView
+        android:layout_width="800px"
+        android:layout_height="800px" />-->
+
+    <com.castomview.CircleView
+        android:layout_width="400dp"
+        android:layout_height="400dp" />
+
 </RelativeLayout>

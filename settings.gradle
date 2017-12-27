@@ -1,1 +1,1 @@
-include ':app', ':BooheeRulerView', ':BooheeRuler', ':misportsconnectview', ':MISportsConnectWidget', ':HenCoderPractice', ':SimonLikeView', ':test'
+include ':app', ':BooheeRulerView', ':BooheeRuler', ':misportsconnectview', ':MISportsConnectWidget', ':HenCoderPractice', ':SimonLikeView', ':test', ':dialog'
